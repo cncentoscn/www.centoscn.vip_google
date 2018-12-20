@@ -17,6 +17,4 @@ QQ交流群：202222574
 ![](https://www.centoscn.vip/wp-content/uploads/2018/12/2018121919244654.png)
 ![](https://www.centoscn.vip/wp-content/uploads/2018/12/2018121919234848.png)
 
-## 博客
 
-www.centoscn.vip
