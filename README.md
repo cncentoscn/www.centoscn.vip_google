@@ -1,4 +1,4 @@
-## 
+##谷歌代理
 由于各种大家都懂的原因，Google在国内2011年就无法访问，很多人只是需要简单搜索而已，并不重度Google用户，反向代理正好可以实现。
 首先准备好一台海外VPS或者可以访问谷歌的阿里云服务器
 
@@ -17,4 +17,6 @@ QQ交流群：202222574
 ![](https://www.centoscn.vip/wp-content/uploads/2018/12/2018121919244654.png)
 ![](https://www.centoscn.vip/wp-content/uploads/2018/12/2018121919234848.png)
 
+## 博客
 
+www.centoscn.vip
