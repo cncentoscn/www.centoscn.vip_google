@@ -9,12 +9,12 @@
 QQ交流群：202222574
 
 ## 搭建文档
-**[blong](https://www.centoscn.vip/5720.html)**
+**[blong](https://www.centoscn.vip/1593.html)**
 
 
 ## 截图
 
-![](https://www.centoscn.vip/wp-content/uploads/2018/12/2018121919244654.png)
-![](https://www.centoscn.vip/wp-content/uploads/2018/12/2018121919234848.png)
+![](https://www.centoscn.vip/wp-content/uploads/2020/05/c28c1-2018121919244654.png)
+![](https://www.centoscn.vip/wp-content/uploads/2020/05/93aa4-2018121919234848.png)
 
 
